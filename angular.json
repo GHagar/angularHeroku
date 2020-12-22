@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "anime-app"
+  "defaultProject": "anime-app",
+  "cli": {
+    "analytics": "51c06534-19c5-4717-b953-df2c34d12f59"
+  }
 }
